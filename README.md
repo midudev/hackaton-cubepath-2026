@@ -8,11 +8,11 @@
 
 ### Crea un proyecto con **Clerk SDK** y gana increíbles premios
 
-[![Clerk](https://img.shields.io/badge/Patrocinado%20por-Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white)](https://midu.link/clerk)
+[![CubePath](https://img.shields.io/badge/Patrocinado%20por-CubePath-00C853?style=for-the-badge&logo=cloud&logoColor=white)](https://midu.link/cubepath)
 [![Fecha límite](https://img.shields.io/badge/Fecha%20l%C3%ADmite-31%20Marzo%202026-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](#-fechas)
 [![Premios](https://img.shields.io/badge/Premios-+1300%24%20en%20premios-FFD700?style=for-the-badge&logo=trophy&logoColor=black)](#-premios-de-la-hackatón)
 
-[Regístrate en Clerk](https://midu.link/clerk) · [Registra tu proyecto](https://github.com/midudev/hackaton-cubepath-2026/issues/new?template=project.yml) · [Ver proyectos](https://github.com/midudev/hackaton-cubepath-2026/issues)
+[Regístrate en CubePath (15$ gratis)](https://midu.link/cubepath) · [Registra tu proyecto](https://github.com/midudev/hackaton-cubepath-2026/issues/new?template=project.yml) · [Ver proyectos](https://github.com/midudev/hackaton-cubepath-2026/issues)
 
 </div>
 
@@ -31,6 +31,9 @@
 ---
 
 ## 🛠️ Cómo participar en la Hackatón
+
+> [!TIP]
+> 🎁 **¡15$ GRATIS en CubePath!** Regístrate con [midu.link/cubepath](https://midu.link/cubepath) y obtén **15$ de crédito**, suficiente para levantar **2 servidores nano**, sin necesidad de tarjeta de crédito. Perfecto para desplegar tu proyecto de la hackatón.
 
 <table>
 <tr>
