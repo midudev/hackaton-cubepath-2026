@@ -154,7 +154,7 @@ Puedes unirte a la [comunidad de Discord de midudev](https://discord.gg/midudev)
 
 <br>
 
-**No.** Puedes usar el framework que prefieras: Next.js, Astro, Remix, Vue, Svelte, Angular... ¡Lo importante es que uses **Clerk SDK**!
+**No.** Puedes usar el framework que prefieras: Next.js, Astro, Remix, Vue, Svelte, Angular... ¡Lo importante es que despliegues en **CubePath**!
 
 </details>
 
