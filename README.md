@@ -6,7 +6,7 @@
 
 # 🚀 Hackatón CubePath 2026
 
-### Crea un proyecto con **Clerk SDK** y gana increíbles premios
+### Crea un proyecto y despliégalo en **CubePath** para ganar increíbles premios
 
 [![CubePath](https://img.shields.io/badge/Patrocinado%20por-CubePath-00C853?style=for-the-badge&logo=cloud&logoColor=white)](https://midu.link/cubepath)
 [![Fecha límite](https://img.shields.io/badge/Fecha%20l%C3%ADmite-31%20Marzo%202026-FF6B6B?style=for-the-badge&logo=calendar&logoColor=white)](#-fechas)
@@ -39,11 +39,11 @@
 <tr>
 <td>
 
-### 1️⃣ Regístrate en Clerk
-Crea tu cuenta en [Clerk](https://midu.link/clerk) para obtener acceso al SDK.
+### 1️⃣ Regístrate en CubePath
+Crea tu cuenta en [CubePath](https://midu.link/cubepath) y obtén **15$ gratis** para desplegar tu proyecto.
 
 ### 2️⃣ Crea tu proyecto
-Usa **cualquier framework** que quieras y despliega tu proyecto donde prefieras.
+Usa **la tecnología que quieras** y despliega tu proyecto en **CubePath**.
 
 ### 3️⃣ Registra tu participación
 Una vez tengas el proyecto listo, registra tu participación creando una issue con la plantilla en este repositorio.
@@ -92,10 +92,10 @@ La idea es que los participantes aprendan a trabajar en equipo y a resolver prob
 
 | # | Regla | Detalle |
 |---|-------|---------|
-| 1 | **Uso de Clerk** | Es necesario que la aplicación use de forma **notoria** algún producto de Clerk. |
+| 1 | **Alojado en CubePath** | Es necesario que la aplicación esté **desplegada en CubePath**. Regístrate en [midu.link/cubepath](https://midu.link/cubepath) y obtén 15$ gratis. |
 | 2 | **Proyecto nuevo** | La aplicación puede ser anterior, pero **no puede haber tenido usuarios reales previamente** ni ser un producto ya en funcionamiento. |
-| 3 | **Proyecto publicado** | El repositorio debe ser **público** y contar con un **enlace accesible** a la demo/despliegue (Vercel, Netlify, Fly.io, etc). |
-| 4 | **Documentación** | El proyecto debe incluir al menos un `README.md` con: descripción, enlace a la demo, capturas/GIFs y explicación de cómo se ha utilizado Clerk. |
+| 3 | **Proyecto publicado** | El repositorio debe ser **público** y contar con un **enlace accesible** a la demo desplegada en **CubePath**. |
+| 4 | **Documentación** | El proyecto debe incluir al menos un `README.md` con: descripción, enlace a la demo, capturas/GIFs y explicación de cómo se ha utilizado CubePath. |
 | 5 | **Registro via Issue** | Cada proyecto debe registrarse creando una **nueva issue** en este repositorio siguiendo la plantilla. |
 | 6 | **Equipos** | Si el proyecto es en equipo, **solo una persona** debe crear la issue. El premio se otorgará a quien creó la issue. |
 | 7 | **Contenido apropiado** | No se permite contenido ofensivo, discriminatorio o inapropiado. |
@@ -127,8 +127,8 @@ La idea es que los participantes aprendan a trabajar en equipo y a resolver prob
 
 | 📌 Evento | 📅 Fecha | ⏰ Hora |
 |:---|:---:|:---:|
-| � **Inicio de la hackatón** | **18 de marzo de 2026** | — |
-| �🔴 **Fecha límite de entrega** | **31 de marzo de 2026** | 23:59:59 H (CET) |
+| ✅ **Inicio de la hackatón** | **18 de marzo de 2026** | — |
+| 🔴 **Fecha límite de entrega** | **31 de marzo de 2026** | 23:59:59 H (CET) |
 | 🗳️ **Votaciones finales en directo** | **1 de abril de 2026** | 18:00 H (CET) |
 
 </div>
