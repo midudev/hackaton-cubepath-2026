@@ -1,0 +1,82 @@
+name: "🚀 Registrar proyecto"
+description: "Registra tu proyecto para participar en la Hackatón CubePath 2026"
+title: "Proyecto: "
+labels: ["proyecto"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## 🎉 ¡Gracias por participar en la Hackatón CubePath 2026!
+        Rellena los campos para registrar tu proyecto. Asegúrate de que tu proyecto está desplegado en **CubePath** y el repositorio es público.
+
+  - type: input
+    id: project-name
+    attributes:
+      label: "📛 Nombre del proyecto"
+      placeholder: "Ej: Mi App Increíble"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: "📝 Descripción del proyecto"
+      description: "Explica brevemente qué hace tu proyecto y qué problema resuelve."
+      placeholder: "Mi proyecto es una aplicación que..."
+    validations:
+      required: true
+
+  - type: input
+    id: demo-url
+    attributes:
+      label: "🔗 URL de la demo (desplegada en CubePath)"
+      placeholder: "https://mi-proyecto.cubepath.app"
+    validations:
+      required: true
+
+  - type: input
+    id: repo-url
+    attributes:
+      label: "📦 URL del repositorio (público)"
+      placeholder: "https://github.com/usuario/mi-proyecto"
+    validations:
+      required: true
+
+  - type: textarea
+    id: screenshot
+    attributes:
+      label: "📸 Capturas de pantalla o GIFs"
+      description: "Arrastra imágenes o pega GIFs de tu proyecto aquí."
+      placeholder: "Arrastra tus imágenes aquí..."
+    validations:
+      required: false
+
+  - type: textarea
+    id: cubepath-usage
+    attributes:
+      label: "☁️ ¿Cómo has utilizado CubePath?"
+      description: "Explica brevemente cómo has desplegado tu proyecto en CubePath."
+      placeholder: "He desplegado mi proyecto en CubePath usando..."
+    validations:
+      required: true
+
+  - type: input
+    id: email
+    attributes:
+      label: "📧 Email de contacto (opcional)"
+      description: "Solo se usará para contactarte en caso de ser premiado. No es obligatorio pero nos puede ayudar a contactar contigo si es necesario."
+      placeholder: "tu@email.com"
+    validations:
+      required: false
+
+  - type: checkboxes
+    id: terms
+    attributes:
+      label: "✅ Confirmación"
+      options:
+        - label: "Mi proyecto está desplegado en CubePath y funciona correctamente"
+          required: true
+        - label: "El repositorio es público y contiene un README con la documentación"
+          required: true
+        - label: "He leído y acepto las [reglas de la hackatón](https://github.com/midudev/hackaton-cubepath-2026#-reglas)"
+          required: true
